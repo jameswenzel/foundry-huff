@@ -6,4 +6,4 @@ ffi = true
 fuzz_runs = 2_000
 
 [fmt]
-line_length = 80
+line_length = 100
